@@ -71,11 +71,11 @@ body {
 
 .budget__income {
     margin-bottom: 10px;
-    background-color: #28B9B5;
+    background-color: #6acbfb;
 }
 
 .budget__expenses {
-    background-color: #FF5049;
+    background-color:  #ff3333;
 }
 
 .budget__income--text,
@@ -156,7 +156,7 @@ body {
     font-size: 35px;
     background: none;
     border: none;
-    color: #28B9B5;
+    color: #6acbfb;
     cursor: pointer;
     display: inline-block;
     vertical-align: middle;
@@ -199,7 +199,7 @@ h2 {
     margin-bottom: 15px;
 }
 
-.icome__title { color: #28B9B5; }
+.icome__title { color: #0040ff; }
 .expenses__title { color: #FF5049; }
 
 .item {
@@ -233,7 +233,7 @@ h2 {
 
 .income .item__value,
 .income .item__delete--btn {
-    color: #28B9B5;
+    color: #6acbfb;
 }
 
 .expenses .item__value,
